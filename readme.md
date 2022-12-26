@@ -15,6 +15,6 @@
 
 # Time taken to finish this project is 4 hours.
 
-[Live link]()
+[Live link](https://amazing-conkies-385d76.netlify.app/)
 
 
